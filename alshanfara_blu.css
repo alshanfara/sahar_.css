@@ -20,7 +20,7 @@
 }
 
 .btn-primary,.label-primary {
-    background-color: #009abc!important;
+    background-color: #337986!important;
     border: 0;
 }
 
@@ -48,7 +48,7 @@
 
 
 #des0 {
-    background-color: #009abc;
+    background-color: #337986;
 }
 
 
@@ -58,7 +58,7 @@
 }
 
 #des4,label.label.label-primary.mini.fl {
-    background-image: linear-gradient(90deg,#009abc 0,#167c92 10%,#009abc 51%,#147d94 89%,#009abc 100%)
+    background-image: linear-gradient(90deg,#337986 0,#167c92 10%,#337986 51%,#147d94 89%,#337986 100%)
 }
 
 div#l1 input#u1 {
@@ -128,7 +128,7 @@ div#l2 input#u2,div#l3 input#u3 {
     text-align: center;
     border-right: 7px solid;
     border-left: 7px solid;
-    border-color: #009abc
+    border-color: #337986
 }
 
 div#l2 input#pass1,div#l3 input#pass2 {
@@ -137,7 +137,7 @@ div#l2 input#pass1,div#l3 input#pass2 {
     text-align: center;
     border-right: 7px solid;
     border-left: 7px solid;
-    border-color: #009abc
+    border-color: #337986
 }
 
 div#l2,div#l3 {
@@ -154,7 +154,7 @@ div#l1,div#l2,div#l3 {
     margin-bottom: 2px;
     border-top: 2px solid;
     margin-top: 0;
-    border-color: #009abc;
+    border-color: #337986;
     border-radius: 15px;
     background: transparent url(tot.png) no-repeat scroll right top;
     height: 62px;
@@ -178,7 +178,7 @@ label.fl.label.loginstat {
 }
 
 .label-success {
-    background-color: #009abc;
+    background-color: #337986;
 }
 
 div.label.label-primary {
@@ -209,7 +209,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
     color: #fff;
     margin-left: 2px!important;
     display: inline-block;
-    margin-right: 4.4px!important
+    margin-right: 4.4px!important;
 }
 
 #des4 {
@@ -223,7 +223,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
 }
 
 .fa.fa-user-secret {
-    color: #b40666;
+    color: #337986;
     margin-top: 4px!important
 }
 
@@ -248,7 +248,7 @@ div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
     border: 71px #fff;
     border-radius: 31px;
-    background-image: linear-gradient(90deg,#009abc 0,#13788e 10%,#009abc 51%,#146f84 89%,#009abc 100%)
+    background-image: linear-gradient(90deg,#337986 0,#13788e 10%,#337986 51%,#337986 89%,#337986 100%)
 }
 
 .border,div#tlogins {
@@ -287,7 +287,7 @@ label.fl.nosel.label.pnhead {
     padding: 5px;
     width: 85%;
     display: block;
-    background-color: #009abc;
+    background-color: #337986;
 }
 
 div#tlogins img.fitimg.fl.u-pic {
@@ -302,7 +302,7 @@ ul.nav.nav-tabs>li>a {
     color: #fff;
     border: none;
     text-align: center;
-    background-color:#009abc;
+    background-color:#337986;
     border-radius: 3px;
     display: initial;
     width: 80%;
@@ -312,7 +312,7 @@ ul.nav.nav-tabs>li>a {
 
 ul.nav.nav-tabs>li.active>a {
     color: #fff;
-    background-color: #009abc;
+    background-color: #337986;
     border: none;
     border-radius: 3px;
 }
@@ -331,7 +331,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
     width: 23px;
     text-align: center;
     background-color: #fff;
-    color: #009abc;
+    color: #337986;
 }
 
 
