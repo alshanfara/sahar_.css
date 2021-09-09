@@ -65,6 +65,9 @@ div#l1 input#u1 {
     margin-left: 38.5px!important;
     margin-left: 1px
 }
+.label-warning {
+    background-color: #00ff0e;
+}
 
 div#l3 button {
     margin-top: 13px;
