@@ -3,7 +3,7 @@
 #des1 {
     margin-bottom: 2px;
     font-family: el messiri,FontAwesome!important;
-    background-image: linear-gradient(90deg,#a12f9fb8 0,#a12f9fde 10%,#a12f9f 51%,#a12f9fe0 89%,#a12f9fb8 100%);
+    background-image: linear-gradient(90deg,#1A5691 0,#347cc3 10%,#1A5691 51%,#3075b9 89%,#1A5691 100%);
     color: #f9f9f9;
     border-radius: 3px;
     padding: 4px 0!important;
@@ -19,7 +19,7 @@
 }
 
 .btn-primary,.label-primary {
-    background-color: #009abc!important;
+    background-color: #1A5691!important;
     border: 0;
 }
 
@@ -47,7 +47,7 @@
 
 
 #des0 {
-    background-color: #009abc;
+    background-color: #1A5691;
 }
 
 
@@ -57,7 +57,7 @@
 }
 
 #des4,label.label.label-primary.mini.fl {
-    background-image: linear-gradient(90deg,#009abc 0,#167c92 10%,#009abc 51%,#147d94 89%,#009abc 100%)
+    background-image: linear-gradient(90deg,#1A5691 0,#167c92 10%,#1A5691 51%,#1A5691 89%,#1A5691 100%)
 }
 
 div#l1 input#u1 {
@@ -84,7 +84,7 @@ div#l1 input#u1 {
     text-align: center;
     border-right: 7px solid;
     border-left: 7px solid;
-    border-color: #a12f9f
+    border-color: #1A5691
 }
 
 div#l2 input#u2 {
@@ -127,7 +127,7 @@ div#l2 input#u2,div#l3 input#u3 {
     text-align: center;
     border-right: 7px solid;
     border-left: 7px solid;
-    border-color: #009abc
+    border-color: #1A5691
 }
 
 div#l2 input#pass1,div#l3 input#pass2 {
@@ -136,7 +136,7 @@ div#l2 input#pass1,div#l3 input#pass2 {
     text-align: center;
     border-right: 7px solid;
     border-left: 7px solid;
-    border-color: #009abc
+    border-color: #1A5691
 }
 
 div#l2,div#l3 {
@@ -153,7 +153,7 @@ div#l1,div#l2,div#l3 {
     margin-bottom: 2px;
     border-top: 2px solid;
     margin-top: 0;
-    border-color: #009abc;
+    border-color: #1A5691;
     border-radius: 15px;
     background: transparent url(tot.png) no-repeat scroll right top;
     height: 62px;
@@ -167,7 +167,7 @@ div#l1 button {
 }
 
 div#l2 button {
-    width: 30%
+    width: 30%;
 }
 
 label.fl.label.loginstat {
@@ -177,7 +177,7 @@ label.fl.label.loginstat {
 }
 
 .label-success {
-    background-color: #009abc;
+    background-color: #1A5691;
 }
 
 div.label.label-primary {
@@ -230,7 +230,7 @@ label.label.label-primary.mini.fl {
     width: 87.5%!important;
     padding: 1px;
     margin-top: 0;
-    border-radius: 15px!important
+    border-radius: 15px!important;
 }
 
 div#tlogins ::-webkit-scrollbar {
@@ -247,7 +247,7 @@ div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
     border: 71px #fff;
     border-radius: 31px;
-    background-image: linear-gradient(90deg,#009abc 0,#13788e 10%,#009abc 51%,#146f84 89%,#009abc 100%)
+    background-image: linear-gradient(90deg,#1A5691 0,#13788e 10%,#1A5691 51%,#1A5691 89%,#1A5691 100%)
 }
 
 .border,div#tlogins {
@@ -286,7 +286,7 @@ label.fl.nosel.label.pnhead {
     padding: 5px;
     width: 85%;
     display: block;
-    background-color: #009abc;
+    background-color: #1A5691;
 }
 
 div#tlogins img.fitimg.fl.u-pic {
@@ -301,7 +301,7 @@ ul.nav.nav-tabs>li>a {
     color: #fff;
     border: none;
     text-align: center;
-    background-color:#009abc;
+    background-color:#1A5691;
     border-radius: 3px;
     display: initial;
     width: 80%;
@@ -311,7 +311,7 @@ ul.nav.nav-tabs>li>a {
 
 ul.nav.nav-tabs>li.active>a {
     color: #fff;
-    background-color: #009abc;
+    background-color: #1A5691;
     border: none;
     border-radius: 3px;
 }
@@ -330,7 +330,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
     width: 23px;
     text-align: center;
     background-color: #fff;
-    color: #009abc;
+    color: #1A5691;
 }
 
 
